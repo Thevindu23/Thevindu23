@@ -30,6 +30,7 @@
 </td></tr>
 </table>
 
+
 <table width="100%">
 <tr><th align="left"><h2>🧷 Notes pinned above my desk</h2></th></tr>
 <tr><td>
@@ -44,7 +45,8 @@
 </td></tr>
 </table>
 
-🛠️ Things that escaped my notebook
+
+## 🛠️ Things that escaped my notebook
 
 Some ideas made it past “I should build that someday.” Here are a few.
 
@@ -58,6 +60,7 @@ Some ideas made it past “I should build that someday.” Here are a few.
 </td></tr>
 </table>
 
+
 <table width="100%">
 <tr><th align="left"><h2>🔎 FindIt</h2></th></tr>
 <tr><td>
@@ -67,6 +70,7 @@ Some ideas made it past “I should build that someday.” Here are a few.
 <h3><a href="https://github.com/Thevindu23/findit">🧭 Follow the clues ↗</a></h3>
 </td></tr>
 </table>
+
 
 <table width="100%">
 <tr><th align="left"><h2>🍃 TeaGo</h2></th></tr>
@@ -78,6 +82,7 @@ Some ideas made it past “I should build that someday.” Here are a few.
 </td></tr>
 </table>
 
+
 <table width="100%">
 <tr><th align="left"><h2>🌐 My Portfolio</h2></th></tr>
 <tr><td>
@@ -87,6 +92,7 @@ Some ideas made it past “I should build that someday.” Here are a few.
 <h3><a href="https://thevindu.xyz">🌍 Come on in ↗</a> &nbsp; · &nbsp; <a href="https://github.com/Thevindu23/My-Portfolio">💻 See the code</a></h3>
 </td></tr>
 </table>
+
 
 <table width="100%">
 <tr><th align="left"><h2>🎨 What's in the pencil case?</h2></th></tr>
@@ -119,6 +125,7 @@ Some ideas made it past “I should build that someday.” Here are a few.
 </td></tr>
 </table>
 
+
 <table width="100%">
 <tr><th align="left"><h2>🌱 Still growing</h2></th></tr>
 <tr><td>
@@ -142,6 +149,7 @@ Some ideas made it past “I should build that someday.” Here are a few.
 </details>
 </td></tr>
 </table>
+
 
 <table width="100%">
 <tr><td align="center">
