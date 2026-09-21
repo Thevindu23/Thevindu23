@@ -1,144 +1,122 @@
 <div align="center">
 
-# 🎮 THEVINDU'S DEV ARCADE
+<sub>CURIOUS MIND &nbsp; / &nbsp; PRACTICAL IDEAS &nbsp; / &nbsp; THOUGHTFUL CODE</sub>
 
-### Code. Music. Side quests. Repeat.
+# Hey, I'm Thevindu 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hey%2C+I%27m+Thevindu+%F0%9F%91%8B;Turning+ideas+into+web+apps;K-pop+in+my+ears.+Code+on+my+screen.;Welcome+to+my+little+corner+of+GitHub." alt="Hey, I'm Thevindu. Turning ideas into web apps. K-pop in my ears, code on my screen." />
+### Business thinking. Developer mindset.
 
-<p>
-  <a href="https://thevindu.xyz"><img src="https://img.shields.io/badge/OPEN_MY_PORTFOLIO-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open my portfolio" /></a>
-  <a href="https://github.com/Thevindu23?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-22D3EE?style=for-the-badge&logo=github&logoColor=101827" alt="Explore my projects" /></a>
-</p>
+I turn everyday problems into opportunities to build something useful.
 
-**🇱🇰 Sri Lanka · 🎓 Business Information Systems · 💻 Building things that solve everyday problems**
+**Business Information Systems undergraduate**  
+University of Sri Jayewardenepura · Sri Lanka 🇱🇰
 
-[🧑‍💻 Player profile](#-player-profile) · [🧰 Inventory](#-my-inventory) · [🚀 Quests](#-the-quest-board) · [🎧 Music](#-the-jukebox) · [🎮 Arcade](#-take-a-game-break)
+<br>
+
+<a href="https://thevindu.xyz"><img src="https://img.shields.io/badge/PORTFOLIO-Meet_my_work-8B5CF6?style=for-the-badge" alt="Portfolio — meet my work" /></a>
+&nbsp;
+<a href="https://github.com/Thevindu23?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Explore_the_code-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Projects — explore the code" /></a>
+
+<br><br>
+
+[About me](#01--a-little-context) &nbsp; / &nbsp; [Projects](#02--ideas-into-projects) &nbsp; / &nbsp; [Skills](#03--the-toolkit) &nbsp; / &nbsp; [Connect](#04--lets-build-something-useful)
 
 </div>
 
 ---
 
-## 🧑‍💻 Player profile
+## 01 / A little context
 
-Hey! I'm **Thevindu Nethmina**, a Business Information Systems undergraduate at the **University of Sri Jayewardenepura**.
+I'm **Thevindu Nethmina**. I enjoy figuring out both **what people need** and **how to build it**—the space where business and technology meet.
 
-I enjoy connecting the business side of a problem with the technical side of a solution. My projects explore web development, useful little tools, and ways to make everyday tasks easier.
+My work spans web applications, databases, and small tools that make everyday tasks easier. I like taking an idea from a rough sketch to a working application, then finding ways to make it clearer and more useful.
 
-```yaml
-player: Thevindu23
-home_base: Sri Lanka
-main_quest: Turn useful ideas into working software
-skill_tree: Web development · Databases · Software quality
-side_quests: AI tools · Automation · Better user experiences
-soundtrack: BLACKPINK · ENHYPEN · BTS
-anime_corner: Naruto 🍥
-```
+| What interests me | What that looks like |
+| :--- | :--- |
+| 🛠️ **Building useful software** | Turning practical problems into web apps and tools. |
+| 🧩 **Connecting the pieces** | Bringing interfaces, backend logic, and data together. |
+| 🔍 **Understanding quality** | Exploring testing and how software behaves beyond the happy path. |
+| 🌱 **Learning through projects** | Trying an idea, building it, and improving it along the way. |
 
-> Every project is another level. Every bug is an unexpected boss fight.
+> A useful idea is a good start. Making it work is the part I enjoy.
 
-## 🧰 My inventory
+## 02 / Ideas into projects
 
-Tools I've worked with while building and learning:
+### 🧠 PromptPocket
 
-**🌐 Frontend**
+**Good prompts deserve a second use.**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+A project for saving and organising AI prompts so they're easier to find and reuse.
 
-**⚙️ Backend**
+[Explore PromptPocket →](https://github.com/Thevindu23/PromptPocket)
 
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<br>
 
-**🗄️ Data & tools**
+### 🔎 FindIt
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Less searching. More reconnecting.**
 
-## 🚀 The quest board
+A lost-and-found portal that helps connect people with their missing items.
 
-| Quest | What it's about | Enter |
-| :--- | :--- | :--- |
-| 🧠 **PromptPocket** | A place to save and organise reusable AI prompts. | [View repository](https://github.com/Thevindu23/PromptPocket) |
-| 🔎 **FindIt** | A lost-and-found portal for connecting people with their missing items. | [View repository](https://github.com/Thevindu23/findit) |
-| 🌐 **My Portfolio** | My personal corner of the web, built with React and Tailwind CSS. | [Visit website](https://thevindu.xyz) · [View repository](https://github.com/Thevindu23/My-Portfolio) |
+`HTML` · `CSS` · `JavaScript` · `PHP` · `MySQL`
 
-**Also in my project journey:** 🍃 TeaGo — a tea factory and supplier management project using Spring Boot.
+[Explore FindIt →](https://github.com/Thevindu23/findit)
 
-## 🎧 The jukebox
+<br>
 
-**Choose a soundtrack for your visit.** Headphones recommended. 🎶
+### 🍃 TeaGo
 
-<p align="center">
-  <a href="https://www.youtube.com/results?search_query=BLACKPINK+official+music"><img src="https://img.shields.io/badge/%E2%96%B6_BLACKPINK-F7A8C4?style=for-the-badge&logo=youtube&logoColor=181717" alt="Find BLACKPINK music on YouTube" /></a>
-  <a href="https://www.youtube.com/results?search_query=ENHYPEN+official+music"><img src="https://img.shields.io/badge/%E2%96%B6_ENHYPEN-A78BFA?style=for-the-badge&logo=youtube&logoColor=white" alt="Find ENHYPEN music on YouTube" /></a>
-  <a href="https://www.youtube.com/results?search_query=BTS+official+music"><img src="https://img.shields.io/badge/%E2%96%B6_BTS-7C3AED?style=for-the-badge&logo=youtube&logoColor=white" alt="Find BTS music on YouTube" /></a>
-</p>
+**Bringing everyday operations into one system.**
 
-*These buttons open YouTube searches—not a live listening status or an embedded music player.*
+A tea factory and supplier management project, connecting business workflows with application development.
 
-<details>
-<summary>🍥 Unlock the anime side quest</summary>
+`Java` · `Spring Boot` · `MySQL` · `HTML` · `CSS` · `JavaScript`
 
-Some problems need a better algorithm. Others need a short break and a Naruto soundtrack.
+<br>
 
-[🎵 Find Naruto soundtracks on YouTube](https://www.youtube.com/results?search_query=Naruto+official+soundtrack)
+### 🌐 My Portfolio
 
-</details>
+**A little more about the person behind the commits.**
 
-## 🎮 Take a game break
+My personal website: a place to introduce myself and share my work.
 
-### 🐛 Mini boss: spot the bug
+`React` · `Tailwind CSS`
 
-This function should return the sum of the numbers. Why doesn't it?
+[Visit the website →](https://thevindu.xyz) &nbsp; · &nbsp; [Explore the code →](https://github.com/Thevindu23/My-Portfolio)
 
-```javascript
-function totalScore(points) {
-  let total = 0;
-  for (let i = 0; i <= points.length; i++) {
-    total += points[i];
-  }
-  return total;
-}
+## 03 / The toolkit
 
-totalScore([10, 20, 30]); // Expected: 60
-```
+Technologies I've worked with through projects and coursework.
+
+**Interfaces**
+
+![HTML5](https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-18181B?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-18181B?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+
+**Behind the scenes**
+
+![Java](https://img.shields.io/badge/Java-18181B?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-18181B?style=flat-square&logo=springboot&logoColor=6DB33F)
+![Python](https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=60A5FA)
+![Django](https://img.shields.io/badge/Django-18181B?style=flat-square&logo=django&logoColor=44B78B)
+![PHP](https://img.shields.io/badge/PHP-18181B?style=flat-square&logo=php&logoColor=A5B4FC)
+
+**Data & workflow**
+
+![MySQL](https://img.shields.io/badge/MySQL-18181B?style=flat-square&logo=mysql&logoColor=38BDF8)
+![Git](https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white)
 
 <details>
-<summary>🗝️ Reveal the fix — no peeking!</summary>
+<summary><strong>🌱 Areas I'm interested in exploring further</strong></summary>
 
-The loop takes **one extra turn**! At `i === points.length`, `points[i]` is `undefined`. Adding it to a number produces `NaN`.
-
-Change `i <= points.length` to **`i < points.length`**.
-
-🏆 **Achievement unlocked: Off-by-one survivor.**
-
-</details>
-
-### 🧩 Bonus level: 2048
-
-Merge matching tiles. Aim for 2048. Try not to turn a five-minute break into an entire evening.
-
-[![Play 2048](https://img.shields.io/badge/PLAY_2048-FBBF24?style=for-the-badge&logoColor=black)](https://play2048.co/)
-
-*Opens an external game. The debugging challenge above works here using a click-to-reveal answer.*
-
-<details>
-<summary>🎁 Open the mystery chest</summary>
-
-You found: **one imaginary extra life**. ❤️
-
-Use it when your code works locally but not after deployment.
-
-No coins. No signup. Just developer solidarity.
+- Building clear, reliable full-stack applications.
+- Software quality assurance and test automation.
+- AI-assisted tools that solve specific, practical problems.
+- Designing better experiences around real business needs.
 
 </details>
 
@@ -146,21 +124,23 @@ No coins. No signup. Just developer solidarity.
 
 <div align="center">
 
-### 🤝 Want to build something useful?
+## 04 / Let's build something useful
 
-I'm happy to connect over web development, student projects, and creative tech ideas.
+Have a project idea, a question, or an interest in collaborating?
 
-**[🌐 Visit my portfolio](https://thevindu.xyz) · [💻 Explore my repositories](https://github.com/Thevindu23?tab=repositories)**
+**[Visit my portfolio ↗](https://thevindu.xyz)** &nbsp; · &nbsp; **[Explore my GitHub ↗](https://github.com/Thevindu23?tab=repositories)**
 
-*Thanks for stopping by. Save your progress, stretch your shoulders, and keep building.* ✨
+<br>
+
+**Understand the problem. Build with purpose. Keep improving.**
+
+<sub>THEVINDU NETHMINA &nbsp; · &nbsp; LEARNING BY BUILDING &nbsp; · &nbsp; SRI LANKA</sub>
 
 </div>
 
-<!-- Owner notes (not displayed):
-Install this file as README.md at the root of the public Thevindu23/Thevindu23 repository.
-Profile/project details are based on information you shared; live repository availability was not verified.
-Music links are artist searches. Replace their href URLs with your own playlist URLs if desired.
-The animated heading uses readme-typing-svg.demolab.com; badges use img.shields.io.
-These external image services may be unavailable. Text and navigation remain usable without them.
-No tokens, GitHub Actions, tracking counters, or Spotify account connection are required.
+<!--
+Place this README.md in the root of the public Thevindu23/Thevindu23 repository.
+Personal and project details are based on information you shared.
+Live availability of portfolio and repository links has not been verified.
+Badge images use shields.io; all key information is also present as text.
 -->
