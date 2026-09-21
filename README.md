@@ -1,146 +1,189 @@
 <div align="center">
 
-<sub>CURIOUS MIND &nbsp; / &nbsp; PRACTICAL IDEAS &nbsp; / &nbsp; THOUGHTFUL CODE</sub>
+<br>
 
-# Hey, I'm Thevindu 👋
+<sub>✦ &nbsp; A SMALL CORNER OF THE INTERNET, WITH A LOT OF IDEAS &nbsp; ✦</sub>
 
-### Business thinking. Developer mindset.
+# 🪴 Thevindu's little idea lab.
 
-I turn everyday problems into opportunities to build something useful.
+### Part business brain. Part developer. Full-time curious human.
 
-**Business Information Systems undergraduate**  
-University of Sri Jayewardenepura · Sri Lanka 🇱🇰
+**Hey, I'm Thevindu Nethmina 👋**  
+I build things, break things, learn why, and build them a little better.
 
 <br>
 
-<a href="https://thevindu.xyz"><img src="https://img.shields.io/badge/PORTFOLIO-Meet_my_work-8B5CF6?style=for-the-badge" alt="Portfolio — meet my work" /></a>
-&nbsp;
-<a href="https://github.com/Thevindu23?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Explore_the_code-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Projects — explore the code" /></a>
+<img src="https://img.shields.io/badge/BASED_IN-Sri_Lanka-FDE68A?style=for-the-badge&labelColor=292524" alt="Based in Sri Lanka" />
+<img src="https://img.shields.io/badge/STUDYING-Business_Information_Systems-C4B5FD?style=for-the-badge&labelColor=292524" alt="Studying Business Information Systems" />
 
 <br><br>
 
-[About me](#01--a-little-context) &nbsp; / &nbsp; [Projects](#02--ideas-into-projects) &nbsp; / &nbsp; [Skills](#03--the-toolkit) &nbsp; / &nbsp; [Connect](#04--lets-build-something-useful)
+**[🏡 Visit my portfolio](https://thevindu.xyz)** &nbsp; · &nbsp; **[🔎 Peek at my projects](https://github.com/Thevindu23?tab=repositories)**
+
+<br>
+
+<sub>📌 IDEAS WELCOME &nbsp;&nbsp; 🧩 PROBLEMS TO SOLVE &nbsp;&nbsp; 🌱 ALWAYS GROWING</sub>
+
+<br><br>
 
 </div>
 
 ---
 
-## 01 / A little context
+## 👋 Oh, hi. You found my README.
 
-I'm **Thevindu Nethmina**. I enjoy figuring out both **what people need** and **how to build it**—the space where business and technology meet.
+I'm a **Business Information Systems undergraduate at the University of Sri Jayewardenepura**, exploring the space between what people need and what technology can do.
 
-My work spans web applications, databases, and small tools that make everyday tasks easier. I like taking an idea from a rough sketch to a working application, then finding ways to make it clearer and more useful.
+I like useful little tools, thoughtful interfaces, and that very satisfying moment when all the pieces finally work together.
 
-| What interests me | What that looks like |
-| :--- | :--- |
-| 🛠️ **Building useful software** | Turning practical problems into web apps and tools. |
-| 🧩 **Connecting the pieces** | Bringing interfaces, backend logic, and data together. |
-| 🔍 **Understanding quality** | Exploring testing and how software behaves beyond the happy path. |
-| 🌱 **Learning through projects** | Trying an idea, building it, and improving it along the way. |
+My favourite starting point? **“There's probably a better way to do this.”**
 
-> A useful idea is a good start. Making it work is the part I enjoy.
-
-## 02 / Ideas into projects
-
-### 🧠 PromptPocket
-
-**Good prompts deserve a second use.**
-
-A project for saving and organising AI prompts so they're easier to find and reuse.
-
-[Explore PromptPocket →](https://github.com/Thevindu23/PromptPocket)
+```javascript
+const thevindu = {
+  location: "Sri Lanka 🇱🇰",
+  studies: "Business Information Systems",
+  interests: ["web development", "databases", "software quality"],
+  approach: ["ask why", "sketch it", "build it", "make it better"],
+  tinyReminder: "A small working idea beats a giant unopened to-do list."
+};
+```
 
 <br>
 
-### 🔎 FindIt
+## 🧷 Notes pinned above my desk
 
-**Less searching. More reconnecting.**
-
-A lost-and-found portal that helps connect people with their missing items.
-
-`HTML` · `CSS` · `JavaScript` · `PHP` · `MySQL`
-
-[Explore FindIt →](https://github.com/Thevindu23/findit)
+| 🟣 THE BUSINESS BRAIN | 🔵 THE BUILDER | 🟢 THE CURIOUS PART |
+| :--- | :--- | :--- |
+| Who needs this?<br>What problem does it solve? | How do the pieces fit?<br>Can I make it simpler? | What happens if…?<br>What can I learn from it? |
 
 <br>
 
-### 🍃 TeaGo
+## 🛠️ Things that escaped my notebook
 
-**Bringing everyday operations into one system.**
+Some ideas made it past “I should build that someday.” Here are a few.
 
-A tea factory and supplier management project, connecting business workflows with application development.
-
-`Java` · `Spring Boot` · `MySQL` · `HTML` · `CSS` · `JavaScript`
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🧠 PromptPocket</h3>
+<p><strong>A home for your “save this prompt” moments.</strong></p>
+<p>A project for saving and organising reusable AI prompts, so useful ideas are easier to find again.</p>
+<p>🗂️ Prompt organisation &nbsp; · &nbsp; AI tools</p>
+<p><a href="https://github.com/Thevindu23/PromptPocket"><strong>Open the pocket ↗</strong></a></p>
+</td>
+<td width="50%" valign="top">
+<h3>🔎 FindIt</h3>
+<p><strong>Lost something? Let's make finding it easier.</strong></p>
+<p>A lost-and-found portal that helps connect people with their missing items.</p>
+<p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>PHP</code> <code>MySQL</code></p>
+<p><a href="https://github.com/Thevindu23/findit"><strong>Follow the clues ↗</strong></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🍃 TeaGo</h3>
+<p><strong>A little structure behind every cup.</strong></p>
+<p>A tea factory and supplier management project that brings business workflows into an application.</p>
+<p><code>Java</code> <code>Spring Boot</code> <code>MySQL</code> <code>HTML/CSS/JS</code></p>
+<p>🌿 Where business processes meet backend logic.</p>
+</td>
+<td width="50%" valign="top">
+<h3>🌐 My Portfolio</h3>
+<p><strong>My other little corner of the internet.</strong></p>
+<p>A personal website for sharing my work and introducing the person behind the commits.</p>
+<p><code>React</code> <code>Tailwind CSS</code></p>
+<p><a href="https://thevindu.xyz"><strong>Come on in ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/Thevindu23/My-Portfolio">See the code</a></p>
+</td>
+</tr>
+</table>
 
 <br>
 
-### 🌐 My Portfolio
+## 🎨 What's in the pencil case?
 
-**A little more about the person behind the commits.**
+Technologies I've worked with through projects and coursework. Still learning; always adding a few new tricks.
 
-My personal website: a place to introduce myself and share my work.
+### The bits you can see
 
-`React` · `Tailwind CSS`
+![HTML5](https://img.shields.io/badge/HTML5-FED7AA?style=for-the-badge&logo=html5&logoColor=9A3412)
+![CSS3](https://img.shields.io/badge/CSS3-BAE6FD?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-FEF08A?style=for-the-badge&logo=javascript&logoColor=713F12)
+![React](https://img.shields.io/badge/React-A5F3FC?style=for-the-badge&logo=react&logoColor=155E75)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-99F6E4?style=for-the-badge&logo=tailwindcss&logoColor=115E59)
 
-[Visit the website →](https://thevindu.xyz) &nbsp; · &nbsp; [Explore the code →](https://github.com/Thevindu23/My-Portfolio)
+### The bits doing the heavy lifting
 
-## 03 / The toolkit
+![Java](https://img.shields.io/badge/Java-FECACA?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-D9F99D?style=for-the-badge&logo=springboot&logoColor=3F6212)
+![Python](https://img.shields.io/badge/Python-BFDBFE?style=for-the-badge&logo=python&logoColor=1E40AF)
+![Django](https://img.shields.io/badge/Django-BBF7D0?style=for-the-badge&logo=django&logoColor=14532D)
+![PHP](https://img.shields.io/badge/PHP-DDD6FE?style=for-the-badge&logo=php&logoColor=5B21B6)
 
-Technologies I've worked with through projects and coursework.
+### The bits keeping everything together
 
-**Interfaces**
+![MySQL](https://img.shields.io/badge/MySQL-BAE6FD?style=for-the-badge&logo=mysql&logoColor=075985)
+![Git](https://img.shields.io/badge/Git-FED7AA?style=for-the-badge&logo=git&logoColor=9A3412)
+![GitHub](https://img.shields.io/badge/GitHub-E9D5FF?style=for-the-badge&logo=github&logoColor=581C87)
 
-![HTML5](https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-18181B?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-18181B?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+<br>
 
-**Behind the scenes**
+## 🌱 Still growing
 
-![Java](https://img.shields.io/badge/Java-18181B?style=flat-square)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-18181B?style=flat-square&logo=springboot&logoColor=6DB33F)
-![Python](https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=60A5FA)
-![Django](https://img.shields.io/badge/Django-18181B?style=flat-square&logo=django&logoColor=44B78B)
-![PHP](https://img.shields.io/badge/PHP-18181B?style=flat-square&logo=php&logoColor=A5B4FC)
+A few directions I'd like to keep exploring:
 
-**Data & workflow**
-
-![MySQL](https://img.shields.io/badge/MySQL-18181B?style=flat-square&logo=mysql&logoColor=38BDF8)
-![Git](https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white)
+- 🧩 **Full-stack development** — getting the interface, logic, and data to work well together.
+- 🔬 **Software quality** — asking “what could go wrong?” before a user finds out.
+- 💡 **Practical AI tools** — giving a useful idea a working interface.
+- 🧭 **Better user experiences** — making the next step feel obvious.
 
 <details>
-<summary><strong>🌱 Areas I'm interested in exploring further</strong></summary>
+<summary><strong>📎 Open the slightly messy idea drawer</strong></summary>
 
-- Building clear, reliable full-stack applications.
-- Software quality assurance and test automation.
-- AI-assisted tools that solve specific, practical problems.
-- Designing better experiences around real business needs.
+<br>
+
+Some ideas I'm interested in exploring—not finished products:
+
+| Scribbled idea | The everyday problem |
+| :--- | :--- |
+| 🛵 Vehicle maintenance tracker | Remembering service dates and keeping track of costs. |
+| 🗓️ Attendance calculator | Making attendance requirements easier to understand. |
+| ♻️ Smarter waste collection | Exploring how collection schedules could adapt to changing needs. |
+
+A notebook full of ideas is a nice problem to have. Choosing what to build next is the interesting part.
 
 </details>
+
+<br>
 
 ---
 
 <div align="center">
 
-## 04 / Let's build something useful
+<br>
 
-Have a project idea, a question, or an interest in collaborating?
+### 💬 Got an idea scribbled somewhere?
 
-**[Visit my portfolio ↗](https://thevindu.xyz)** &nbsp; · &nbsp; **[Explore my GitHub ↗](https://github.com/Thevindu23?tab=repositories)**
+Let's talk web development, student projects, and useful things worth building.
+
+**[🏡 Find me at thevindu.xyz](https://thevindu.xyz)**  
+**[🛠️ Browse what I've been building](https://github.com/Thevindu23?tab=repositories)**
 
 <br>
 
-**Understand the problem. Build with purpose. Keep improving.**
+**Thanks for visiting my little lab.**  
+<sub>Take a look around. Mind the unfinished ideas. 🪴</sub>
 
-<sub>THEVINDU NETHMINA &nbsp; · &nbsp; LEARNING BY BUILDING &nbsp; · &nbsp; SRI LANKA</sub>
+<br>
+
+<sub>MADE OF CURIOSITY, SMALL STEPS & A FEW VERY EDUCATIONAL BUGS.</sub>
+
+<br><br>
 
 </div>
 
 <!--
-Place this README.md in the root of the public Thevindu23/Thevindu23 repository.
-Personal and project details are based on information you shared.
-Live availability of portfolio and repository links has not been verified.
-Badge images use shields.io; all key information is also present as text.
+Install as README.md in the root of the public Thevindu23/Thevindu23 repository.
+Badge images use shields.io. No music, games, scripts, tokens, or workflows are included.
+Project and profile details come from information you shared; external project links have not been live-verified.
+The idea drawer describes exploratory ideas, not shipped products.
 -->
